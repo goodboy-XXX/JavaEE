@@ -81,7 +81,7 @@ VALUES (1001, 'SMITH', 'm', 20, 'CLERK', 800, '2005-11-12'),
 -- 在employee表中，查询dept_no等于10和20的所有记录。			select * from employee where dept_no in(10,20);
 -- 在employee表中，查询工资范围在800~2500之间的员工信息。		select * from employee where e_salary between 800 and 2500;
 -- 在employee表中，查询部门编号为20的部门中的员工信息。			select * from 
--- 在employee表中，查询每个部门最高工资的员工信息。			
+-- 在employee表中，查询每个部门最高工资的员工信息。			select * from employee where e_salary=(select max(salary) from employee);
 SELECT *
 FROM employee e
 WHERE e.e_salary =
@@ -97,7 +97,7 @@ FROM employee e;
 -- 在employee表中，查询工资低于1500的员工信息。				select * from employee where e_salary<1500;
 -- 在employee表中，将查询记录先按部门编号由高到低排列，再按员工工资由高到低排列。	select * from employee order by e_no desc,e_salary desc;
 -- 在employee表中，查询员工姓名以字母’A’或’S’开头的员工的信息。			select * from employee where name like 'A%' or name like 'S%';
--- 在employee表中，查询到目前为止，工龄大于等于10年的员工信息。				select * from employee where 2020-date>10;
+-- 在employee表中，查询到目前为止，工龄大于等于10年的员工信息。				select * from employee where hireDate>2010-6-23;
 
 CREATE TABLE customers
 (
