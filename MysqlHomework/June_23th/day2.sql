@@ -97,7 +97,7 @@ FROM employee e;
 -- 在employee表中，查询工资低于1500的员工信息。				select * from employee where e_salary<1500;
 -- 在employee表中，将查询记录先按部门编号由高到低排列，再按员工工资由高到低排列。	select * from employee order by e_no desc,e_salary desc;
 -- 在employee表中，查询员工姓名以字母’A’或’S’开头的员工的信息。			select * from employee where name like 'A%' or name like 'S%';
--- 在employee表中，查询到目前为止，工龄大于等于10年的员工信息。				select * from employee where hireDate>2010-6-23;
+-- 在employee表中，查询到目前为止，工龄大于等于10年的员工信息。				select * from employee where hireDate<2010-6-23;
 
 CREATE TABLE customers
 (
