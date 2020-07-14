@@ -1,0 +1,13 @@
+club\banyuan\service\impl\ManagerServiceImpl.class
+club\banyuan\dao\ManagerDao.class
+club\banyuan\controller\ManagerServlet.class
+club\banyuan\entity\Manager.class
+club\banyuan\service\impl\SelectServiceImpl.class
+club\banyuan\service\ManagerService.class
+club\banyuan\service\SelectService.class
+club\banyuan\service\ProductService.class
+club\banyuan\dao\impl\ProductDaoImpl.class
+club\banyuan\controller\SelectServlet.class
+club\banyuan\dao\ProductDao.class
+club\banyuan\service\impl\ProductServiceImpl.class
+club\banyuan\dao\impl\ManagerDaoImpl.class

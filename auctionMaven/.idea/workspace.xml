@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e67da60-8db3-4bc2-92a6-03b1d4df398d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\MyUse\JAVA\apache-maven-3.6.3\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eRQJHgOIaLTyWwc5bZSSkAfQpj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybatis01" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyUse\workspace\auctionMaven\src\main\webapp" />
+      <recent name="D:\MyUse\workspace\auctionMaven\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="club.banyuan.dao.impl" />
+      <recent name="club.banyuan.dao" />
+      <recent name="club.banyuan.entity" />
+      <recent name="club.banyuan.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyUse\workspace\auctionMaven\src\main\resources" />
+    </key>
+  </component>
+  <component name="Regex">
+    <option name="pos1" value="218" />
+    <option name="pos2" value="218" />
+    <option name="pos3" value="162" />
+    <option name="pos4" value="444" />
+    <option name="pos5" value="162" />
+    <option name="autoUpdate" value="true" />
+    <option name="referenceOn" value="false" />
+    <option name="referencePos" value="0" />
+    <option name="showLabels" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.ManagerProductTest.managerProductTest">
+    <configuration name="ManagerProductTest.managerProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auctionMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="club.banyuan.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="club.banyuan.test" />
+      <option name="MAIN_CLASS_NAME" value="club.banyuan.test.ManagerProductTest" />
+      <option name="METHOD_NAME" value="managerProductTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.managerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auctionMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="club.banyuan.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="club.banyuan.test" />
+      <option name="MAIN_CLASS_NAME" value="club.banyuan.test.ManagerTest" />
+      <option name="METHOD_NAME" value="managerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest.registerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auctionMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="club.banyuan.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="club.banyuan.test" />
+      <option name="MAIN_CLASS_NAME" value="club.banyuan.test.RegisterTest" />
+      <option name="METHOD_NAME" value="registerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectTest.selectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auctionMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="club.banyuan.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="club.banyuan.test" />
+      <option name="MAIN_CLASS_NAME" value="club.banyuan.test.SelectTest" />
+      <option name="METHOD_NAME" value="selectTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserLoginTest.userLoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auctionMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="club.banyuan.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="club.banyuan.test" />
+      <option name="MAIN_CLASS_NAME" value="club.banyuan.test.UserLoginTest" />
+      <option name="METHOD_NAME" value="userLoginTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ManagerProductTest.managerProductTest" />
+        <item itemvalue="JUnit.SelectTest.selectTest" />
+        <item itemvalue="JUnit.ManagerTest.managerTest" />
+        <item itemvalue="JUnit.UserLoginTest.userLoginTest" />
+        <item itemvalue="JUnit.RegisterTest.registerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e67da60-8db3-4bc2-92a6-03b1d4df398d" name="Default Changelist" comment="" />
+      <created>1594281851897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594281851897</updated>
+      <workItem from="1594281853653" duration="7673000" />
+      <workItem from="1594292681568" duration="12874000" />
+      <workItem from="1594342525518" duration="2008000" />
+      <workItem from="1594350730319" duration="17557000" />
+      <workItem from="1594429580016" duration="1783000" />
+      <workItem from="1594431371294" duration="4042000" />
+      <workItem from="1594435764019" duration="206000" />
+      <workItem from="1594436433186" duration="136000" />
+      <workItem from="1594437529712" duration="4517000" />
+      <workItem from="1594535499191" duration="14504000" />
+      <workItem from="1594601960344" duration="17441000" />
+      <workItem from="1594687770910" duration="1188000" />
+      <workItem from="1594693973616" duration="762000" />
+      <workItem from="1594722942893" duration="19955000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1594281917521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1594281917521" />
+    <state x="361" y="71" key="#Template_Data_Languages" timestamp="1594561380376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Template_Data_Languages/0.0.1536.824@0.0.1536.824" timestamp="1594561380376" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594390785925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1594390785925" />
+    <state x="521" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594733635771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1594733635771" />
+    <state x="458" y="135" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1594285350708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="458" y="135" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594285350708" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1594741308045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594741308045" />
+    <state x="548" y="297" width="439" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594457443731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="297" width="439" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1594457443731" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594296325366">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594296325366" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594452270633">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594452270633" />
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom" timestamp="1594744135580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594744135580" />
+    <state width="1493" height="219" key="GridCell.Tab.0.center" timestamp="1594744135580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594744135580" />
+    <state width="1493" height="219" key="GridCell.Tab.0.left" timestamp="1594744135580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594744135580" />
+    <state width="1493" height="219" key="GridCell.Tab.0.right" timestamp="1594744135580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594744135580" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594571277209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594571277209" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594571277208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594571277208" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594571277208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594571277208" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594571277209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594571277209" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1594448033941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594448033941" />
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog" timestamp="1594557228348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1594557228348" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594724666868">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594724666868" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="auctionMaven" type="b2602c69:ProjectViewProjectNode" />
+        <item name="auctionMaven" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>

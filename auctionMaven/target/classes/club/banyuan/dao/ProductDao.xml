@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper     PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="club.banyuan.dao.ProductDao">
+    <resultMap id="productMap" type="club.banyuan.entity.Product">
+        <id column="id" property="id"/>
+        <result column="productName" property="productName"/>
+        <result column="description" property="description"/>
+        <result column="startTime" property="startTime"/>
+        <result column="endTime" property="endTime"/>
+        <result column="startPrice" property="startPrice"/>
+        <result column="operate" property="operate"/>
+    </resultMap>
+
+    <select id="getAll" resultType="List">
+        select * from product
+    </select>
+
+</mapper>

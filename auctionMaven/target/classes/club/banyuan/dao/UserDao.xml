@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE mapper     PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+                "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="club.banyuan.dao.UserDao">
+        <resultMap id="userMap" type="club.banyuan.entity.User">
+                <id column="id" property="id"/>
+                <result column="userName" property="userName"/>
+                <result column="pwd" property="pwd"/>
+                <result column="identityID" property="identityID"/>
+                <result column="phoneNumber" property="phoneNumber"/>
+                <result column="address" property="address"/>
+                <result column="post" property="post"/>
+        </resultMap>
+
+        <select id="getLoginUser" parameterType="User" resultType="User">
+                select * from user;
+        </select>
+
+        <insert id="add" parameterType="User">
+                insert into user values(#{null},#{userName},#{pwd},#{identityID},#{phoneNumber},#{address},#{post});
+        </insert>
+</mapper>
