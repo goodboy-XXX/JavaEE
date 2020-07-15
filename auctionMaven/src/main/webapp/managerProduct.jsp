@@ -50,7 +50,7 @@
                             "            <li>"+product.getStartTime()+"</li>\n" +
                             "            <li>"+product.getEndTime()+"</li>\n" +
                             "            <li>"+product.getStartPrice()+"</li>\n" +
-                            "            <li class=\"borderno red\"><a href=\"#\">修改|</a><a href=\"#\">删除</a></li>\n" +
+                            "            <li class=\"borderno red\"><a href=\"changeProduct.jsp\">修改|</a><a href=\"#\">删除</a></li>\n" +
                             "        </ul>");
                 }
             %>

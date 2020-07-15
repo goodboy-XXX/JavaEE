@@ -53,16 +53,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybatis01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\MyUse\workspace\auctionMaven\src\main\webapp" />
-      <recent name="D:\MyUse\workspace\auctionMaven\src\main\java" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyUse\workspace\auctionMaven\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="club.banyuan.dao.impl" />
@@ -70,8 +69,9 @@
       <recent name="club.banyuan.entity" />
       <recent name="club.banyuan.utils" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\MyUse\workspace\auctionMaven\src\main\resources" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyUse\workspace\auctionMaven\src\main\webapp" />
+      <recent name="D:\MyUse\workspace\auctionMaven\src\main\java" />
     </key>
   </component>
   <component name="Regex">
@@ -85,7 +85,7 @@
     <option name="referencePos" value="0" />
     <option name="showLabels" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.ManagerProductTest.managerProductTest">
+  <component name="RunManager" selected="JUnit.SelectTest.selectTest">
     <configuration name="ManagerProductTest.managerProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="auctionMaven" />
       <extension name="coverage">
@@ -168,8 +168,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ManagerProductTest.managerProductTest" />
         <item itemvalue="JUnit.SelectTest.selectTest" />
+        <item itemvalue="JUnit.ManagerProductTest.managerProductTest" />
         <item itemvalue="JUnit.ManagerTest.managerTest" />
         <item itemvalue="JUnit.UserLoginTest.userLoginTest" />
         <item itemvalue="JUnit.RegisterTest.registerTest" />
@@ -199,7 +199,7 @@
       <workItem from="1594601960344" duration="17441000" />
       <workItem from="1594687770910" duration="1188000" />
       <workItem from="1594693973616" duration="762000" />
-      <workItem from="1594722942893" duration="19955000" />
+      <workItem from="1594722942893" duration="26546000" />
     </task>
     <servers />
   </component>
@@ -227,14 +227,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="458" y="135" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594285350708" />
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1594741308045">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1594755927097">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594741308045" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594755927097" />
     <state x="548" y="297" width="439" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594457443731">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="297" width="439" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1594457443731" />
+    <state x="89" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594755959624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="89" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1594755959624" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594296325366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -243,22 +247,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594452270633" />
-    <state width="1493" height="219" key="GridCell.Tab.0.bottom" timestamp="1594744135580">
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1594756835557">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594744135580" />
-    <state width="1493" height="219" key="GridCell.Tab.0.center" timestamp="1594744135580">
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594756835557" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1594756835556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="219" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594744135580" />
-    <state width="1493" height="219" key="GridCell.Tab.0.left" timestamp="1594744135580">
+    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594756835556" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1594756835556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="219" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594744135580" />
-    <state width="1493" height="219" key="GridCell.Tab.0.right" timestamp="1594744135580">
+    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594756835556" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1594756835556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="219" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594744135580" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594756835556" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594571277209">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

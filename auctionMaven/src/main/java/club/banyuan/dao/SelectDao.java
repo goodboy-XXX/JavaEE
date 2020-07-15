@@ -8,6 +8,6 @@ import java.util.List;
 public interface SelectDao extends BaseDao {
 
     //查询商品
-    public List<Product> select(String inputName, String description, String startTime,String endTime,int startPrice) throws Exception;
+    public List<Product> select(Object...objects) throws Exception;
 
 }

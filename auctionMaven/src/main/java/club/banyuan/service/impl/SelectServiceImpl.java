@@ -10,9 +10,9 @@ import java.util.List;
 
 public class SelectServiceImpl implements SelectService {
     @Override
-    public List<Product> selectByInput(String inputName, String description, String startTime, String endTime, int startPrice) throws Exception {
+    public List<Product> selectByInput(Object...objects) throws Exception {
         SelectDao selectDao = new SelectDaoImpl(JdbcUtils.getConnection());
-        List<Product> list = selectDao.select(inputName, description, startTime, endTime, startPrice);
+        List<Product> list = selectDao.select(objects);
         return list;
     }
 }

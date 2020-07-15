@@ -8,6 +8,6 @@ import java.util.List;
 public interface SelectService {
 
     //通过输入查询
-    public List<Product> selectByInput(String inputName,String description,String startTime,String endTime,int startPrice) throws SQLException, ClassNotFoundException, Exception;
+    public List<Product> selectByInput(Object...objects) throws SQLException, ClassNotFoundException, Exception;
 
 }
